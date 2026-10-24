@@ -1,9 +1,5 @@
-# TaskFlow – React Task Manager
-
-Author: Vineet Dwivedi
-
-TaskFlow is a clean and scalable task management application built with React.  
-The project focuses on **correct state management, derived data, and component-driven architecture**, rather than just UI.
+# TaskFlow
+TaskFlow is a clean and scalable React-based task management app designed to make organizing everyday tasks simple and intuitive. It focuses on reusable components, predictable state updates, and efficient task filtering.
 
 ---
 
@@ -54,3 +50,4 @@ It is not just a normal todo app, this project show the efforts and learning.
 
 ## 🔗 Live Demo
 https://taskflow-sand-seven.vercel.app/
+
